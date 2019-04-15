@@ -8,7 +8,7 @@
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
-    "events-proxy": "git+https://github.com/kodexxx/cf-events-proxy.git#7554adaec0ec0e586c2fd00d0e4a6ee97b95f7a0",
+    "events-proxy": "git+https://github.com/cf-notification-system/event-proxy.git#9f173b617d93b98791bcc7425c50ac09c14e6fc8",
     "express": "^4.16.4",
     "jest": "^24.7.1",
     "lodash": "^4.17.11",
